@@ -1,0 +1,1242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>茄苳寮溪等三處集水區計畫-新店溪構造物調查.kml</name>
+	<open>1</open>
+	<Style id="sh_ylw-circle">
+		<IconStyle>
+			<scale>1.06364</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ylw-circle.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.9</scale>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ylw-circle-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_ylw-circle">
+		<IconStyle>
+			<scale>0.9</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ylw-circle.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.9</scale>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ylw-circle-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_ylw-circle">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-circle</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-circle</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Folder>
+		<name>茄苳寮溪等三處集水區計畫-新店溪構造物調查</name>
+		<open>1</open>
+		<Placemark>
+			<name>新店01-01-B11-91</name>
+			<description><![CDATA[<img src="https://d32015.swcb.gov.tw/files/Structure/S01-01-B11-91.jpg">]]></description>
+			<LookAt>
+				<longitude>120.9248898600666</longitude>
+				<latitude>24.54896942809587</latitude>
+				<altitude>0</altitude>
+				<heading>-0.002098044045326629</heading>
+				<tilt>0</tilt>
+				<range>142.875445964833</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-circle</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>120.9248706921155,24.54901104349207,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00003">
+			<name>新店02-01-A51-100</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<img src="https://d32015.swcb.gov.tw/files/Structure/S02-01-A51-100.jpg">]]></description>
+			<styleUrl>#msn_ylw-circle</styleUrl>
+			<Point>
+				<coordinates>120.913868553724,24.52841585777674,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00004">
+			<name>新店02-02-A51-100</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<img src="https://d32015.swcb.gov.tw/files/Structure/S02-02-A51-100.jpg">]]></description>
+			<styleUrl>#msn_ylw-circle</styleUrl>
+			<Point>
+				<coordinates>120.9139236554637,24.52836630100599,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00001">
+			<name>新店02-03-B11-100</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<img src="https://d32015.swcb.gov.tw/files/Structure/S02-03-B11-100.jpg">]]></description>
+			<styleUrl>#msn_ylw-circle</styleUrl>
+			<Point>
+				<coordinates>120.9135602310293,24.529014052216,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00002">
+			<name>新店03-01-A51-103</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<img src="https://d32015.swcb.gov.tw/files/Structure/S03-01-A51-103.jpg">]]></description>
+			<styleUrl>#msn_ylw-circle</styleUrl>
+			<Point>
+				<coordinates>120.9147771707146,24.52549295687379,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00003">
+			<name>新店03-02-A51-103</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<img src="https://d32015.swcb.gov.tw/files/Structure/S03-02-A51-103.jpg">]]></description>
+			<styleUrl>#msn_ylw-circle</styleUrl>
+			<Point>
+				<coordinates>120.9145566208196,24.52526207606082,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00005">
+			<name>新店03-03-B11-103</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<img src="https://d32015.swcb.gov.tw/files/Structure/S03-03-B11-103.jpg">]]></description>
+			<styleUrl>#msn_ylw-circle</styleUrl>
+			<Point>
+				<coordinates>120.9146250008255,24.52528141455938,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00000">
+			<name>新店04-01-A51-103</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<img src="https://d32015.swcb.gov.tw/files/Structure/S04-01-A51-103.jpg">]]></description>
+			<styleUrl>#msn_ylw-circle</styleUrl>
+			<Point>
+				<coordinates>120.9128841231608,24.52279101402001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00001">
+			<name>新店04-02-A51-103</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<img src="https://d32015.swcb.gov.tw/files/Structure/S04-02-A51-103.jpg">]]></description>
+			<styleUrl>#msn_ylw-circle</styleUrl>
+			<Point>
+				<coordinates>120.9129126343759,24.52266898240487,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00006">
+			<name>新店04-03-B11-103</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<img src="https://d32015.swcb.gov.tw/files/Structure/S04-03-B11-103.jpg">]]></description>
+			<styleUrl>#msn_ylw-circle</styleUrl>
+			<Point>
+				<coordinates>120.9128245233343,24.52255680258761,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00003">
+			<name>新店04-04-B11-103</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<img src="https://d32015.swcb.gov.tw/files/Structure/S04-04-B11-103.jpg">]]></description>
+			<styleUrl>#msn_ylw-circle</styleUrl>
+			<Point>
+				<coordinates>120.912862291775,24.52253014049923,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>新店05-01-A51-106</name>
+			<description><![CDATA[<img src="https://d32015.swcb.gov.tw/files/Structure/S05-01-A51-106.jpg">]]></description>
+			<LookAt>
+				<longitude>120.9451235736648</longitude>
+				<latitude>24.58040910829434</latitude>
+				<altitude>0</altitude>
+				<heading>2.487368874359026</heading>
+				<tilt>0</tilt>
+				<range>220.6375142529544</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-circle</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>120.9445199336939,24.58029982869914,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>新店05-02-A51-106</name>
+			<description><![CDATA[<img src="https://d32015.swcb.gov.tw/files/Structure/S05-02-A51-106.jpg">]]></description>
+			<LookAt>
+				<longitude>120.9451600171455</longitude>
+				<latitude>24.58038011898164</latitude>
+				<altitude>0</altitude>
+				<heading>2.487385620650512</heading>
+				<tilt>0</tilt>
+				<range>146.5972192482686</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-circle</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>120.9447460217644,24.58038215012384,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>新店05-03-A51-106</name>
+			<description><![CDATA[<img src="https://d32015.swcb.gov.tw/files/Structure/S05-03-A51-106.jpg">]]></description>
+			<LookAt>
+				<longitude>120.9451600171455</longitude>
+				<latitude>24.58038011898164</latitude>
+				<altitude>0</altitude>
+				<heading>2.487385620650512</heading>
+				<tilt>0</tilt>
+				<range>146.5972192482686</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-circle</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>120.9448582332612,24.58040032935121,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>新店05-04-A51-106</name>
+			<description><![CDATA[<img src="https://d32015.swcb.gov.tw/files/Structure/S05-04-A51-106.jpg">]]></description>
+			<LookAt>
+				<longitude>120.9451600171455</longitude>
+				<latitude>24.58038011898164</latitude>
+				<altitude>0</altitude>
+				<heading>2.487385620650512</heading>
+				<tilt>0</tilt>
+				<range>146.5972192482686</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-circle</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>120.9449817243947,24.58040824053452,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>新店05-05-A51-106</name>
+			<description><![CDATA[<img src="https://d32015.swcb.gov.tw/files/Structure/S05-05-A51-106.jpg">]]></description>
+			<LookAt>
+				<longitude>120.9451600171455</longitude>
+				<latitude>24.58038011898164</latitude>
+				<altitude>0</altitude>
+				<heading>2.487385620650512</heading>
+				<tilt>0</tilt>
+				<range>146.5972192482686</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-circle</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>120.9451135807136,24.58040742321215,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>新店05-06-A51-106</name>
+			<description><![CDATA[<img src="https://d32015.swcb.gov.tw/files/Structure/S05-06-A51-106.jpg">]]></description>
+			<LookAt>
+				<longitude>120.9451100051268</longitude>
+				<latitude>24.58037805322882</latitude>
+				<altitude>0</altitude>
+				<heading>5.010828103365674e-005</heading>
+				<tilt>0</tilt>
+				<range>207.3319947784162</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-circle</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>120.9452501440982,24.58044136675035,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>新店05-07-A51-106</name>
+			<description><![CDATA[<img src="https://d32015.swcb.gov.tw/files/Structure/S05-07-A51-106.jpg">]]></description>
+			<LookAt>
+				<longitude>120.945134381934</longitude>
+				<latitude>24.58032127164475</latitude>
+				<altitude>0</altitude>
+				<heading>2.487374956231612</heading>
+				<tilt>0</tilt>
+				<range>162.2521207809809</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-circle</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>120.9453661632475,24.58048123564598,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>新店05-08-A51-106</name>
+			<description><![CDATA[<img src="https://d32015.swcb.gov.tw/files/Structure/S05-08-A51-106.jpg">]]></description>
+			<LookAt>
+				<longitude>120.9451235736648</longitude>
+				<latitude>24.58040910829434</latitude>
+				<altitude>0</altitude>
+				<heading>2.487368874359026</heading>
+				<tilt>0</tilt>
+				<range>220.6375142529544</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-circle</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>120.9454719926319,24.58053095065372,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>新店05-09-B11-106</name>
+			<description><![CDATA[<img src="https://d32015.swcb.gov.tw/files/Structure/S05-09-B11-106.jpg">]]></description>
+			<LookAt>
+				<longitude>120.9449112875067</longitude>
+				<latitude>24.58047330296262</latitude>
+				<altitude>0</altitude>
+				<heading>9.255693677912602e-006</heading>
+				<tilt>25.13489370543249</tilt>
+				<range>109.0111650379034</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-circle</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>120.9450695942386,24.58037685844347,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>新店05-10-B11-106</name>
+			<description><![CDATA[<img src="https://d32015.swcb.gov.tw/files/Structure/S05-10-B11-106.jpg">]]></description>
+			<LookAt>
+				<longitude>120.9449112875067</longitude>
+				<latitude>24.58047330296262</latitude>
+				<altitude>0</altitude>
+				<heading>9.255693677912602e-006</heading>
+				<tilt>25.13489370543249</tilt>
+				<range>109.0111650379034</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-circle</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>120.9450566856677,24.58042594917368,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>新店06-01-A51-106</name>
+			<description><![CDATA[<img src="https://d32015.swcb.gov.tw/files/Structure/S06-01-A51-106.jpg">]]></description>
+			<LookAt>
+				<longitude>120.9468210960908</longitude>
+				<latitude>24.56983833498426</latitude>
+				<altitude>0</altitude>
+				<heading>-8.476130704322671e-005</heading>
+				<tilt>35.90099740822512</tilt>
+				<range>235.6142150004873</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-circle</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>120.9459174578662,24.56951236876029,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>新店06-02-A51-106</name>
+			<description><![CDATA[<img src="https://d32015.swcb.gov.tw/files/Structure/S06-02-A51-106.jpg">]]></description>
+			<LookAt>
+				<longitude>120.9468222398568</longitude>
+				<latitude>24.56983867967086</latitude>
+				<altitude>0</altitude>
+				<heading>-8.550368119085132e-005</heading>
+				<tilt>35.90099994495383</tilt>
+				<range>235.9049063971649</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-circle</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>120.9460040262541,24.56950576719154,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>新店06-03-A51-106</name>
+			<description><![CDATA[<img src="https://d32015.swcb.gov.tw/files/Structure/S06-03-A51-106.jpg">]]></description>
+			<LookAt>
+				<longitude>120.9468222398568</longitude>
+				<latitude>24.56983867967086</latitude>
+				<altitude>0</altitude>
+				<heading>-8.550368119085132e-005</heading>
+				<tilt>35.90099994495383</tilt>
+				<range>235.9049063971649</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-circle</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>120.9461063966077,24.5694949781986,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>新店06-04-A51-106</name>
+			<description><![CDATA[<img src="https://d32015.swcb.gov.tw/files/Structure/S06-04-A51-106.jpg">]]></description>
+			<LookAt>
+				<longitude>120.9468222398568</longitude>
+				<latitude>24.56983867967086</latitude>
+				<altitude>0</altitude>
+				<heading>-8.550368119085132e-005</heading>
+				<tilt>35.90099994495383</tilt>
+				<range>235.9049063971649</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-circle</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>120.9462063451515,24.56950302834439,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>新店06-05-A51-106</name>
+			<description><![CDATA[<img src="https://d32015.swcb.gov.tw/files/Structure/S06-05-A51-106.jpg">]]></description>
+			<LookAt>
+				<longitude>120.9468222398568</longitude>
+				<latitude>24.56983867967086</latitude>
+				<altitude>0</altitude>
+				<heading>-8.550368119085132e-005</heading>
+				<tilt>35.90099994495383</tilt>
+				<range>235.9049063971649</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-circle</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>120.9463729547244,24.56953537450829,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>新店06-06-A51-106</name>
+			<description><![CDATA[<img src="https://d32015.swcb.gov.tw/files/Structure/S06-06-A51-106.jpg">]]></description>
+			<LookAt>
+				<longitude>120.9468222398568</longitude>
+				<latitude>24.56983867967086</latitude>
+				<altitude>0</altitude>
+				<heading>-8.550368119085132e-005</heading>
+				<tilt>35.90099994495383</tilt>
+				<range>235.9049063971649</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-circle</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>120.9465436969387,24.56956974398535,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>新店06-07-A51-106</name>
+			<description><![CDATA[<img src="https://d32015.swcb.gov.tw/files/Structure/S06-07-A51-106.jpg">]]></description>
+			<LookAt>
+				<longitude>120.9468222398568</longitude>
+				<latitude>24.56983867967086</latitude>
+				<altitude>0</altitude>
+				<heading>-8.550368119085132e-005</heading>
+				<tilt>35.90099994495383</tilt>
+				<range>235.9049063971649</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-circle</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>120.9466661730746,24.56961390400934,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00003">
+			<name>新店06-08-A41-106</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<img src="https://d32015.swcb.gov.tw/files/Structure/S06-08-A41-106.jpg">]]></description>
+			<styleUrl>#msn_ylw-circle</styleUrl>
+			<Point>
+				<coordinates>120.94671247316,24.56963034450833,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>新店06-09-A51-106</name>
+			<description><![CDATA[<img src="https://d32015.swcb.gov.tw/files/Structure/S06-09-A51-106.jpg">]]></description>
+			<LookAt>
+				<longitude>120.9470826194105</longitude>
+				<latitude>24.56998430992569</latitude>
+				<altitude>0</altitude>
+				<heading>-0.0001635025601774078</heading>
+				<tilt>35.90598091544951</tilt>
+				<range>285.7726253911955</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-circle</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>120.9469403153905,24.56972778926294,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>新店06-10-A41-106</name>
+			<description><![CDATA[<img src="https://d32015.swcb.gov.tw/files/Structure/S06-10-A41-106.jpg">]]></description>
+			<LookAt>
+				<longitude>120.9470826194105</longitude>
+				<latitude>24.56998430992569</latitude>
+				<altitude>0</altitude>
+				<heading>-0.0001635025601774078</heading>
+				<tilt>35.90598091544951</tilt>
+				<range>285.7726253911955</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-circle</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>120.9470934215456,24.56984704600981,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>新店06-11-A51-106</name>
+			<description><![CDATA[<img src="https://d32015.swcb.gov.tw/files/Structure/S06-11-A51-106.jpg">]]></description>
+			<LookAt>
+				<longitude>120.9470826194105</longitude>
+				<latitude>24.56998430992569</latitude>
+				<altitude>0</altitude>
+				<heading>-0.0001635025601774078</heading>
+				<tilt>35.90598091544951</tilt>
+				<range>285.7726253911955</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-circle</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>120.9472515433744,24.5699180190005,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>新店06-12-A41-106</name>
+			<description><![CDATA[<img src="https://d32015.swcb.gov.tw/files/Structure/S06-12-A41-106.jpg">]]></description>
+			<LookAt>
+				<longitude>120.9469363453952</longitude>
+				<latitude>24.56973350177125</latitude>
+				<altitude>0</altitude>
+				<heading>-0.0002242781808259649</heading>
+				<tilt>35.90783703032569</tilt>
+				<range>279.8001554350339</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-circle</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>120.9473866463084,24.56992229529333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>新店06-13-A51-106</name>
+			<description><![CDATA[<img src="https://d32015.swcb.gov.tw/files/Structure/S06-13-A51-106.jpg">]]></description>
+			<LookAt>
+				<longitude>120.9474746522609</longitude>
+				<latitude>24.56982778739039</latitude>
+				<altitude>0</altitude>
+				<heading>0.0004930269249150506</heading>
+				<tilt>35.9111280335466</tilt>
+				<range>188.0524107452753</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-circle</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>120.9475683235506,24.56994214036744,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00001">
+			<name>新店06-14-B11-106</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<img src="https://d32015.swcb.gov.tw/files/Structure/S06-14-B11-106.jpg">]]></description>
+			<styleUrl>#msn_ylw-circle</styleUrl>
+			<Point>
+				<coordinates>120.9467673359616,24.56961029780891,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>新店06-15-B11-106</name>
+			<description><![CDATA[<img src="https://d32015.swcb.gov.tw/files/Structure/S06-15-B11-106.jpg">]]></description>
+			<LookAt>
+				<longitude>120.9468222398568</longitude>
+				<latitude>24.56983867967086</latitude>
+				<altitude>0</altitude>
+				<heading>-8.550368119085132e-005</heading>
+				<tilt>35.90099994495383</tilt>
+				<range>235.9049063971649</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-circle</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>120.9467431251751,24.56965617430678,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>新店07-01-B11-94</name>
+			<description><![CDATA[<img src="https://d32015.swcb.gov.tw/files/Structure/S07-01-B11-94.jpg">]]></description>
+			<LookAt>
+				<longitude>120.9128663386319</longitude>
+				<latitude>24.55386573301636</latitude>
+				<altitude>0</altitude>
+				<heading>9.286591921573664e-005</heading>
+				<tilt>0</tilt>
+				<range>158.3290161506355</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-circle</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>120.9126584989084,24.55385949407818,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>新店07-02-B11-94</name>
+			<description><![CDATA[<img src="https://d32015.swcb.gov.tw/files/Structure/S07-02-B11-94.jpg">]]></description>
+			<LookAt>
+				<longitude>120.9128663386319</longitude>
+				<latitude>24.55386573301636</latitude>
+				<altitude>0</altitude>
+				<heading>9.286591921573664e-005</heading>
+				<tilt>0</tilt>
+				<range>158.3290161506355</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-circle</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>120.9126145297293,24.55386697457785,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>新店08-01-B21-96</name>
+			<description><![CDATA[<img src="https://d32015.swcb.gov.tw/files/Structure/S08-01-B21-96.jpg">]]></description>
+			<LookAt>
+				<longitude>120.946160618044</longitude>
+				<latitude>24.5446106180556</latitude>
+				<altitude>0</altitude>
+				<heading>0.0001212042357819447</heading>
+				<tilt>0</tilt>
+				<range>303.4540488376278</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-circle</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>120.9459768501768,24.54485142540386,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>新店09-01-A51-91</name>
+			<description><![CDATA[<img src="https://d32015.swcb.gov.tw/files/Structure/S09-01-A51-91.jpg">]]></description>
+			<LookAt>
+				<longitude>120.92280690034</longitude>
+				<latitude>24.54465197716933</latitude>
+				<altitude>0</altitude>
+				<heading>-2.066100132704666e-005</heading>
+				<tilt>0</tilt>
+				<range>219.0015941168125</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-circle</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>120.9226353742648,24.5447112497022,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>新店09-02-B11-91</name>
+			<description><![CDATA[<img src="https://d32015.swcb.gov.tw/files/Structure/S09-02-B11-91.jpg">]]></description>
+			<LookAt>
+				<longitude>120.9227715109608</longitude>
+				<latitude>24.54461884791704</latitude>
+				<altitude>0</altitude>
+				<heading>-3.536182025523338e-005</heading>
+				<tilt>0</tilt>
+				<range>140.975244993474</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-circle</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>120.9226438806486,24.54485670511889,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>新店10-01-A51-100</name>
+			<description><![CDATA[<img src="https://d32015.swcb.gov.tw/files/Structure/S10-01-A51-100.jpg">]]></description>
+			<LookAt>
+				<longitude>120.926331974714</longitude>
+				<latitude>24.5408370361491</latitude>
+				<altitude>0</altitude>
+				<heading>8.174782511011531e-005</heading>
+				<tilt>0</tilt>
+				<range>199.2722840144103</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-circle</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>120.9260078791302,24.54137899273333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>新店10-02-A51-100</name>
+			<description><![CDATA[<img src="https://d32015.swcb.gov.tw/files/Structure/S10-02-A51-100.jpg">]]></description>
+			<LookAt>
+				<longitude>120.9262669709655</longitude>
+				<latitude>24.54092117725145</latitude>
+				<altitude>0</altitude>
+				<heading>5.47490633968308e-005</heading>
+				<tilt>0</tilt>
+				<range>154.1925765291192</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-circle</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>120.9260484516149,24.54134089033738,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>新店10-03-A51-100</name>
+			<description><![CDATA[<img src="https://d32015.swcb.gov.tw/files/Structure/S10-03-A51-100.jpg">]]></description>
+			<LookAt>
+				<longitude>120.9262424457809</longitude>
+				<latitude>24.5410742354912</latitude>
+				<altitude>0</altitude>
+				<heading>4.456433132649319e-005</heading>
+				<tilt>0</tilt>
+				<range>153.8960235235021</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-circle</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>120.9260780860493,24.5412945041508,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>新店10-04-A51-100</name>
+			<description><![CDATA[<img src="https://d32015.swcb.gov.tw/files/Structure/S10-04-A51-100.jpg">]]></description>
+			<LookAt>
+				<longitude>120.9262424457809</longitude>
+				<latitude>24.5410742354912</latitude>
+				<altitude>0</altitude>
+				<heading>4.456433132649319e-005</heading>
+				<tilt>0</tilt>
+				<range>153.8960235235021</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-circle</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>120.9261192862656,24.541212594024,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>新店10-05-A51-100</name>
+			<description><![CDATA[<img src="https://d32015.swcb.gov.tw/files/Structure/S10-05-A51-100.jpg">]]></description>
+			<LookAt>
+				<longitude>120.926235784445</longitude>
+				<latitude>24.54108514268189</latitude>
+				<altitude>0</altitude>
+				<heading>4.179757625215414e-005</heading>
+				<tilt>0</tilt>
+				<range>153.8615544560584</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-circle</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>120.9261465682551,24.54116080766392,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>新店10-06-A51-100</name>
+			<description><![CDATA[<img src="https://d32015.swcb.gov.tw/files/Structure/S10-06-A51-100.jpg">]]></description>
+			<LookAt>
+				<longitude>120.9261665476144</longitude>
+				<latitude>24.54104757309497</latitude>
+				<altitude>0</altitude>
+				<heading>1.199399135944668e-005</heading>
+				<tilt>0</tilt>
+				<range>143.0951940114929</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-circle</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>120.9261584856235,24.54107352310142,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>新店10-07-B11-100</name>
+			<description><![CDATA[<img src="https://d32015.swcb.gov.tw/files/Structure/S10-07-B11-100.jpg">]]></description>
+			<LookAt>
+				<longitude>120.9261456900242</longitude>
+				<latitude>24.54120037798187</latitude>
+				<altitude>0</altitude>
+				<heading>-9.375863198282616</heading>
+				<tilt>9.518040946089243</tilt>
+				<range>102.3861993193721</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-circle</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>120.9260775994428,24.54124494329946,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>新店10-08-B11-100</name>
+			<description><![CDATA[<img src="https://d32015.swcb.gov.tw/files/Structure/S10-08-B11-100.jpg">]]></description>
+			<LookAt>
+				<longitude>120.9261456900242</longitude>
+				<latitude>24.54120037798187</latitude>
+				<altitude>0</altitude>
+				<heading>-9.375863198282616</heading>
+				<tilt>9.518040946089243</tilt>
+				<range>102.3861993193721</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-circle</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>120.9261766079705,24.5412411802917,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>新店11-01-A51-91</name>
+			<description><![CDATA[<img src="https://d32015.swcb.gov.tw/files/Structure/S11-01-A51-91.jpg">]]></description>
+			<LookAt>
+				<longitude>120.928892248327</longitude>
+				<latitude>24.53098800850536</latitude>
+				<altitude>0</altitude>
+				<heading>3.37641461613167</heading>
+				<tilt>0.9841620241182535</tilt>
+				<range>289.5375624406439</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-circle</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>120.92835204967,24.53091454431329,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>新店11-02- B12-91</name>
+			<description><![CDATA[<img src="https://d32015.swcb.gov.tw/files/Structure/S11-02-%20B12-91.jpg">]]></description>
+			<LookAt>
+				<longitude>120.928892248327</longitude>
+				<latitude>24.53098800850536</latitude>
+				<altitude>0</altitude>
+				<heading>3.37641461613167</heading>
+				<tilt>0.9841620241182535</tilt>
+				<range>289.5375624406439</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-circle</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>120.9295506821263,24.53067556756902,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>新店12-01-A51-106</name>
+			<description><![CDATA[<img src="https://d32015.swcb.gov.tw/files/Structure/S12-01-A51-106.jpg">]]></description>
+			<LookAt>
+				<longitude>120.9302981346072</longitude>
+				<latitude>24.53043517502044</latitude>
+				<altitude>0</altitude>
+				<heading>-4.468340009821474e-005</heading>
+				<tilt>0</tilt>
+				<range>116.7358015211057</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-circle</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>120.9301618896667,24.53044260241888,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>新店12-02-B11-106</name>
+			<description><![CDATA[<img src="https://d32015.swcb.gov.tw/files/Structure/S12-02-B11-106.jpg">]]></description>
+			<LookAt>
+				<longitude>120.9302128076282</longitude>
+				<latitude>24.53051277016652</latitude>
+				<altitude>0</altitude>
+				<heading>-8.010904836569681e-005</heading>
+				<tilt>0</tilt>
+				<range>154.2327956310541</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-circle</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>120.9301246708199,24.53062783948401,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>新店13-01-A51-104</name>
+			<description><![CDATA[<img src="https://d32015.swcb.gov.tw/files/Structure/S13-01-A51-104.jpg">]]></description>
+			<LookAt>
+				<longitude>120.9405086884242</longitude>
+				<latitude>24.51960869133494</latitude>
+				<altitude>0</altitude>
+				<heading>126.5880007918152</heading>
+				<tilt>65.22418583068226</tilt>
+				<range>53.04721351818667</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-circle</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>120.940480784053,24.51978009898167,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>新店13-02-A51-104</name>
+			<description><![CDATA[<img src="https://d32015.swcb.gov.tw/files/Structure/S13-02-A51-104.jpg">]]></description>
+			<LookAt>
+				<longitude>120.9404774020982</longitude>
+				<latitude>24.5196470495694</latitude>
+				<altitude>0</altitude>
+				<heading>126.5879877533504</heading>
+				<tilt>65.22451267257226</tilt>
+				<range>60.84808036742051</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-circle</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>120.9404858647924,24.5197240916294,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>新店13-03-A51-104</name>
+			<description><![CDATA[<img src="https://d32015.swcb.gov.tw/files/Structure/S13-03-A51-104.jpg">]]></description>
+			<LookAt>
+				<longitude>120.9404729682034</longitude>
+				<latitude>24.51957795116909</latitude>
+				<altitude>0</altitude>
+				<heading>126.5879859595421</heading>
+				<tilt>65.22472618017962</tilt>
+				<range>119.2647094117687</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-circle</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>120.9405209215852,24.51968052749848,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>新店13-04-A51-104</name>
+			<description><![CDATA[<img src="https://d32015.swcb.gov.tw/files/Structure/S13-04-A51-104.jpg">]]></description>
+			<LookAt>
+				<longitude>120.941183540434</longitude>
+				<latitude>24.51929211060298</latitude>
+				<altitude>0</altitude>
+				<heading>118.7432333808014</heading>
+				<tilt>67.68944040925305</tilt>
+				<range>429.3178348429295</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-circle</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>120.940598132673,24.51961920456318,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>新店14-01-A51-107</name>
+			<description><![CDATA[<img src="https://d32015.swcb.gov.tw/files/Structure/S14-01-A51-107.jpg">]]></description>
+			<LookAt>
+				<longitude>120.9247875187066</longitude>
+				<latitude>24.52807286097823</latitude>
+				<altitude>0</altitude>
+				<heading>-138.5244497866432</heading>
+				<tilt>57.08841739258513</tilt>
+				<range>53.50052987877873</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-circle</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>120.9247402485702,24.528096929101,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>新店14-02-A51-107</name>
+			<description><![CDATA[<img src="https://d32015.swcb.gov.tw/files/Structure/S14-02-A51-107.jpg">]]></description>
+			<LookAt>
+				<longitude>120.9246562007368</longitude>
+				<latitude>24.52803834732074</latitude>
+				<altitude>0</altitude>
+				<heading>-164.2551607477792</heading>
+				<tilt>52.66441697012687</tilt>
+				<range>71.52472553246824</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-circle</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>120.924761032748,24.52791592874625,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>新店14-03-A51-107</name>
+			<description><![CDATA[<img src="https://d32015.swcb.gov.tw/files/Structure/S14-03-A51-107.jpg">]]></description>
+			<LookAt>
+				<longitude>120.9247677913506</longitude>
+				<latitude>24.52798495880104</latitude>
+				<altitude>0</altitude>
+				<heading>-111.2529061160197</heading>
+				<tilt>36.7477209978061</tilt>
+				<range>106.2906111423296</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-circle</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>120.9248023915017,24.52782960389018,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>新店14-04-A51-107</name>
+			<description><![CDATA[<img src="https://d32015.swcb.gov.tw/files/Structure/S14-04-A51-107.jpg">]]></description>
+			<LookAt>
+				<longitude>120.9247677913506</longitude>
+				<latitude>24.52798495880104</latitude>
+				<altitude>0</altitude>
+				<heading>-111.2529061160197</heading>
+				<tilt>36.7477209978061</tilt>
+				<range>106.2906111423296</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-circle</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>120.9248284003115,24.52777950079873,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>新店14-05-A51-107</name>
+			<description><![CDATA[<img src="https://d32015.swcb.gov.tw/files/Structure/S14-05-A51-107.jpg">]]></description>
+			<LookAt>
+				<longitude>120.9248514582115</longitude>
+				<latitude>24.52775191508892</latitude>
+				<altitude>0</altitude>
+				<heading>-111.2528717067537</heading>
+				<tilt>36.74456754903745</tilt>
+				<range>52.21004865063676</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-circle</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>120.9248499560555,24.52773740839784,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>新店14-06-A51-107</name>
+			<description><![CDATA[<img src="https://d32015.swcb.gov.tw/files/Structure/S14-06-A51-107.jpg">]]></description>
+			<LookAt>
+				<longitude>120.9248512705679</longitude>
+				<latitude>24.52775229622533</latitude>
+				<altitude>0</altitude>
+				<heading>-111.2528717846687</heading>
+				<tilt>36.74456756969989</tilt>
+				<range>52.21389187852789</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-circle</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>120.9248574555825,24.52771749954293,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>新店14-07-B11-107</name>
+			<description><![CDATA[<img src="https://d32015.swcb.gov.tw/files/Structure/S14-07-B11-107.jpg">]]></description>
+			<LookAt>
+				<longitude>120.9247785389526</longitude>
+				<latitude>24.52784398765821</latitude>
+				<altitude>0</altitude>
+				<heading>-111.2529009871541</heading>
+				<tilt>36.74373945399484</tilt>
+				<range>75.11515994282003</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-circle</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>120.9247584602749,24.52787302718942,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>新店14-08-B11-107</name>
+			<description><![CDATA[<img src="https://d32015.swcb.gov.tw/files/Structure/S14-08-B11-107.jpg">]]></description>
+			<LookAt>
+				<longitude>120.9247557896888</longitude>
+				<latitude>24.52786832414984</latitude>
+				<altitude>0</altitude>
+				<heading>-111.2529104466514</heading>
+				<tilt>36.74268046511906</tilt>
+				<range>55.68552952358764</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-circle</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>120.9248310121559,24.52780592588292,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00003">
+			<name>新店15-01-A51-106</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<img src="https://d32015.swcb.gov.tw/files/Structure/S15-01-A51-106.jpg">]]></description>
+			<styleUrl>#msn_ylw-circle</styleUrl>
+			<Point>
+				<coordinates>120.9243991301821,24.52583004005653,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>新店15-02-B12-106</name>
+			<description><![CDATA[<img src="https://d32015.swcb.gov.tw/files/Structure/S15-02-B12-106.jpg">]]></description>
+			<LookAt>
+				<longitude>120.9240565222272</longitude>
+				<latitude>24.52600772366423</latitude>
+				<altitude>0</altitude>
+				<heading>-120.2626077775648</heading>
+				<tilt>55.01706753231212</tilt>
+				<range>237.3746430279224</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-circle</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>120.9243710698464,24.52591565624427,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00001">
+			<name>新店15-03-B12-106</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<img src="https://d32015.swcb.gov.tw/files/Structure/S15-03-B12-106.jpg">]]></description>
+			<styleUrl>#msn_ylw-circle</styleUrl>
+			<Point>
+				<coordinates>120.9244426136108,24.52590348765802,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00006">
+			<name>新店16-01-A41-100</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<img src="https://d32015.swcb.gov.tw/files/Structure/S16-01-A41-100.jpg">]]></description>
+			<styleUrl>#msn_ylw-circle</styleUrl>
+			<Point>
+				<coordinates>120.9303851786149,24.52323762237785,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00008">
+			<name>新店16-02-A51-100</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<img src="https://d32015.swcb.gov.tw/files/Structure/S16-02-A51-100.jpg">]]></description>
+			<styleUrl>#msn_ylw-circle</styleUrl>
+			<Point>
+				<coordinates>120.9303985641399,24.52317845667707,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00009">
+			<name>新店16-03-A51-100</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<img src="https://d32015.swcb.gov.tw/files/Structure/S16-03-A51-100.jpg">]]></description>
+			<styleUrl>#msn_ylw-circle</styleUrl>
+			<Point>
+				<coordinates>120.9304520729751,24.52306243470423,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00007">
+			<name>新店16-04-A41-100</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<img src="https://d32015.swcb.gov.tw/files/Structure/S16-04-A41-100.jpg">]]></description>
+			<styleUrl>#msn_ylw-circle</styleUrl>
+			<Point>
+				<coordinates>120.9305068386469,24.52299942463168,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00010">
+			<name>新店16-05-A51-100</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<img src="https://d32015.swcb.gov.tw/files/Structure/S16-05-A51-100.jpg">]]></description>
+			<styleUrl>#msn_ylw-circle</styleUrl>
+			<Point>
+				<coordinates>120.9305319784928,24.52289587951352,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00011">
+			<name>新店16-06-A51-100</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<img src="https://d32015.swcb.gov.tw/files/Structure/S16-06-A51-100.jpg">]]></description>
+			<styleUrl>#msn_ylw-circle</styleUrl>
+			<Point>
+				<coordinates>120.9305346817824,24.52284828227485,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00001">
+			<name>新店16-07-B11-100</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<img src="https://d32015.swcb.gov.tw/files/Structure/S16-07-B11-100.jpg">]]></description>
+			<styleUrl>#msn_ylw-circle</styleUrl>
+			<Point>
+				<coordinates>120.9303841307724,24.52309533310384,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>新店17-01-B21-95</name>
+			<description><![CDATA[<img src="https://d32015.swcb.gov.tw/files/Structure/S17-01-B21-95.jpg">]]></description>
+			<LookAt>
+				<longitude>120.9419656868485</longitude>
+				<latitude>24.52489013695501</latitude>
+				<altitude>0</altitude>
+				<heading>-7.002268140540465e-005</heading>
+				<tilt>0</tilt>
+				<range>160.811668325848</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-circle</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>120.9418307566264,24.52496469068942,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>
